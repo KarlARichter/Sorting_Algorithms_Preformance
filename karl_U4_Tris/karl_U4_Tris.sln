@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3C41CC9D-86D6-497A-AFE7-9944BC32848A}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "karl_U4_Tris", "..\..\12\Unite 4 Algorithmes\Code\U4_L4\U4_Algorithmes_Squelette\U4_Algorithmes_Squelette\U4_Algorithmes_Squelette\karl_U4_Tris.csproj", "{247A44CE-C674-42AC-97CF-33B446D45F23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{247A44CE-C674-42AC-97CF-33B446D45F23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{247A44CE-C674-42AC-97CF-33B446D45F23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{247A44CE-C674-42AC-97CF-33B446D45F23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{247A44CE-C674-42AC-97CF-33B446D45F23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{247A44CE-C674-42AC-97CF-33B446D45F23} = {3C41CC9D-86D6-497A-AFE7-9944BC32848A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B05BD861-585B-4F0C-B616-9F5364A5DDBB}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,19 @@
+E:\Informatique 2020\01 ICS4U NORTHRUP\Unite 4 Algorithmes\Code\U4_Algorithmes_Squelette\U4_Algorithmes_Squelette\obj\Debug\U4_Algorithmes_Squelette.csprojAssemblyReference.cache
+E:\Informatique 2020\01 ICS4U NORTHRUP\Unite 4 Algorithmes\Code\U4_Algorithmes_Squelette\U4_Algorithmes_Squelette\obj\Debug\U4_Algorithmes_Squelette.Properties.Resources.resources
+E:\Informatique 2020\01 ICS4U NORTHRUP\Unite 4 Algorithmes\Code\U4_Algorithmes_Squelette\U4_Algorithmes_Squelette\obj\Debug\U4_Algorithmes_Squelette.csproj.GenerateResource.cache
+E:\Informatique 2020\01 ICS4U NORTHRUP\Unite 4 Algorithmes\Code\U4_Algorithmes_Squelette\U4_Algorithmes_Squelette\bin\Debug\U4_Algorithmes_Squelette.exe.config
+E:\Informatique 2020\01 ICS4U NORTHRUP\Unite 4 Algorithmes\Code\U4_Algorithmes_Squelette\U4_Algorithmes_Squelette\bin\Debug\U4_Algorithmes_Squelette.exe
+E:\Informatique 2020\01 ICS4U NORTHRUP\Unite 4 Algorithmes\Code\U4_Algorithmes_Squelette\U4_Algorithmes_Squelette\bin\Debug\U4_Algorithmes_Squelette.pdb
+E:\Informatique 2020\01 ICS4U NORTHRUP\Unite 4 Algorithmes\Code\U4_Algorithmes_Squelette\U4_Algorithmes_Squelette\obj\Debug\U4_Algorithmes_Squelette.Form1.resources
+E:\Informatique 2020\01 ICS4U NORTHRUP\Unite 4 Algorithmes\Code\U4_Algorithmes_Squelette\U4_Algorithmes_Squelette\obj\Debug\U4_Algorithmes_Squelette.exe
+E:\Informatique 2020\01 ICS4U NORTHRUP\Unite 4 Algorithmes\Code\U4_Algorithmes_Squelette\U4_Algorithmes_Squelette\obj\Debug\U4_Algorithmes_Squelette.pdb
+C:\02 Northrup\03 Informatique 11e 12e\01 ICS4U NORTHRUP\Unite 4 Algorithmes\Code\U4_Algorithmes_Squelette\U4_Algorithmes_Squelette\bin\Debug\U4_Algorithmes_Squelette.exe.config
+C:\02 Northrup\03 Informatique 11e 12e\01 ICS4U NORTHRUP\Unite 4 Algorithmes\Code\U4_Algorithmes_Squelette\U4_Algorithmes_Squelette\bin\Debug\U4_Algorithmes_Squelette.exe
+C:\02 Northrup\03 Informatique 11e 12e\01 ICS4U NORTHRUP\Unite 4 Algorithmes\Code\U4_Algorithmes_Squelette\U4_Algorithmes_Squelette\bin\Debug\U4_Algorithmes_Squelette.pdb
+C:\02 Northrup\03 Informatique 11e 12e\01 ICS4U NORTHRUP\Unite 4 Algorithmes\Code\U4_Algorithmes_Squelette\U4_Algorithmes_Squelette\obj\Debug\U4_Algorithmes_Squelette.Form1.resources
+C:\02 Northrup\03 Informatique 11e 12e\01 ICS4U NORTHRUP\Unite 4 Algorithmes\Code\U4_Algorithmes_Squelette\U4_Algorithmes_Squelette\obj\Debug\U4_Algorithmes_Squelette.Properties.Resources.resources
+C:\02 Northrup\03 Informatique 11e 12e\01 ICS4U NORTHRUP\Unite 4 Algorithmes\Code\U4_Algorithmes_Squelette\U4_Algorithmes_Squelette\obj\Debug\U4_Algorithmes_Squelette.csproj.GenerateResource.cache
+C:\02 Northrup\03 Informatique 11e 12e\01 ICS4U NORTHRUP\Unite 4 Algorithmes\Code\U4_Algorithmes_Squelette\U4_Algorithmes_Squelette\obj\Debug\U4_Algorithmes_Squelette.csproj.CoreCompileInputs.cache
+C:\02 Northrup\03 Informatique 11e 12e\01 ICS4U NORTHRUP\Unite 4 Algorithmes\Code\U4_Algorithmes_Squelette\U4_Algorithmes_Squelette\obj\Debug\U4_Algorithmes_Squelette.exe
+C:\02 Northrup\03 Informatique 11e 12e\01 ICS4U NORTHRUP\Unite 4 Algorithmes\Code\U4_Algorithmes_Squelette\U4_Algorithmes_Squelette\obj\Debug\U4_Algorithmes_Squelette.pdb
+C:\02 Northrup\03 Informatique 11e 12e\01 ICS4U NORTHRUP\Unite 4 Algorithmes\Code\U4_Algorithmes_Squelette\U4_Algorithmes_Squelette\obj\Debug\U4_Algorithmes_Squelette.csproj.AssemblyReference.cache
